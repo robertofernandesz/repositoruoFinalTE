@@ -1,0 +1,124 @@
+body
+{
+  margin: 0;
+  background-color: #84BAE8;
+}
+
+.menu
+{
+#88DBD5
+}
+
+.menu ul
+{
+  margin: 0;
+  background-color: #8ADDF2;
+  list-style: none;
+  text-align: center;
+}
+
+.menu ul li
+{
+  display: inline-block;
+}
+
+.menu ul li a
+{
+  padding: 10px 30px;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+.menu ul li a:hover
+{
+  color: #84BAE8;
+}
+
+.logo
+{
+  margin-top: 5px;
+  position: relative;
+  margin-left: 5px;
+
+}
+
+.rodape
+{
+  width: 99.8%;
+  float: left;
+  background-color: #8ADDF2;
+  padding: 1px;
+  align-items: center;
+}
+
+.rodape > p
+{
+  color: black;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.rodape h1
+{
+  margin-bottom: 10px;
+  color: black;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.rodape > a
+{
+  color: white;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.rodape > img
+{
+
+}
+
+.agenda
+{
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  font-size: 2em;
+}
+
+.agenda > h1
+{
+  color: #ffe;
+}
+
+.grid
+{
+
+  position: relative;
+  left: 300px;
+
+}
+
+.agendar
+{
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  font-size: 2em;
+}
+
+.agendar > a
+{
+  color: black;
+}
+
+.loteriazita
+{
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  font-size: 2em;
+}
